@@ -13,11 +13,13 @@ The goal is to showcase backend structure, service-oriented organization, and no
 
 ## Included files
 
+```text
 messaging-project/
   routes/
     conversationRoutes.js
   services/
     conversationService.js
+```
 
 ## What this extract demonstrates
 

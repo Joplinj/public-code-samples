@@ -13,6 +13,7 @@ The goal is to showcase frontend structure, async workflow handling, and UI coor
 
 ## Included files
 
+```text
 frontend-backtest/
   pages/
     Backtest.jsx
@@ -20,6 +21,7 @@ frontend-backtest/
     useBacktestTask.js
   utils/
     backtestResults.js
+```
 
 ## What this extract demonstrates
 

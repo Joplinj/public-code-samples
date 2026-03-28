@@ -11,8 +11,8 @@ Most of my work cannot be shared publicly, so this repository focuses on represe
 
 ## Included projects
 
+```text
 trading-project/
-
     backtest-service/
         controllers/
           backtestController.js
@@ -45,6 +45,7 @@ trading-project/
     streaming-project/
         video-player/
           VideoPlayer.js
+```
 
 ## trading-project
 

@@ -13,9 +13,11 @@ The goal is to showcase component-level frontend logic, playback-related state h
 
 ## Included files
 
+```text
 streaming-project/
   video-player/
     VideoPlayer.js
+```
 
 ## What this extract demonstrates
 

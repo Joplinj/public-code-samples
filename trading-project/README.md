@@ -13,9 +13,11 @@ The original projects are not publicly available, so this repository focuses on 
 
 ## Included extracts
 
+```text
 backtest-service/
 realtime-engine/
 frontend-backtest/
+```
 
 ## backtest-service
 

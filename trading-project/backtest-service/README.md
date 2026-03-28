@@ -13,6 +13,7 @@ The goal is to showcase backend structure, async orchestration, and data-process
 
 ## Included files
 
+```text
 controllers/
   backtestController.js
 
@@ -22,6 +23,7 @@ services/
 utils/
   backtestUtils.js
   taskManager.js
+```
 
 ## What this extract demonstrates
 

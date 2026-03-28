@@ -13,11 +13,13 @@ The goal is to showcase runtime coordination, service structure, and stateful ba
 
 ## Included files
 
+```text
 managers/
   StateManager.js
 
 services/
   realtimeService.js
+```
 
 ## What this extract demonstrates
 
